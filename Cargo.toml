@@ -1,0 +1,8 @@
+[package]
+name = "alex_zhukovsky_rs"
+version = "0.1.0"
+authors = ["loomaclin <loo.maclin@protonmail.com>"]
+
+[dependencies]
+hyper = "=0.12.2"
+hyper-tls = "=0.2.1"
